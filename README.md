@@ -5,11 +5,11 @@
 The primary objectives of this brain tumor classification project are as follows:
 
 To read an MRI scan in DICOM format and convert it into a NumPy array for manipulation.
-     *To classify the scan into one of the following classes:
-     *Glioma
-     *Meningioma
-     *Pituitary tumor
-     *No tumor
+     * To classify the scan into one of the following classes:
+     * Glioma
+     * Meningioma
+     * Pituitary tumor
+     * No tumor
      
 ## Methodology:
 
