@@ -1,6 +1,6 @@
 ## BRAIN_TUMOR CLASSIFICATION
 
-##Project Objectives:
+## Project Objectives:
 
 The primary objectives of this brain tumor classification project are as follows:
 
@@ -11,7 +11,7 @@ The primary objectives of this brain tumor classification project are as follows
      *Pituitary tumor
      *No tumor
      
-##Methodology:
+## Methodology:
 
 The following is a brief overview of the methodology used in this project:
     *Import the necessary libraries - NumPy,Matplotlib,Sklearn and Pandas
@@ -20,6 +20,6 @@ The following is a brief overview of the methodology used in this project:
     *Classify the input MRI scan using the trained model
     *Display the input MRI scan along with the predicted class label
 
-##Conclusion:
+## Conclusion:
 
 In conclusion, this brain tumor classification project using Python is a simple yet powerful program that can classify brain tumors from MRI scans with high accuracy. This project has immense practical applications in the field of medicine, as it can be used to automate the diagnosis of brain tumors. By utilizing the advanced features of TensorFlow, this project showcases the power of Python programming language in solving real-world problems with ease and efficiency.
